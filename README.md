@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cyber-moose
+- 👋 Hi, I’m Ben.
 - 👀 I’m interested in cybersecurity tools and smart contracts
 - 🌱 I’m currently learning python, JS, golang, C++, and smart contract logic
 - 💞️ I’m looking to collaborate on (nothing just yet, but check back later)
