@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ben.
-- 👀 I’m interested in cybersecurity tools and smart contracts
+- 👀 Security Consultant with Casaba Security
 - 🌱 I’m currently learning python, JS, golang, C++, and smart contract logic
 - 💞️ I’m looking to collaborate on (nothing just yet, but check back later)
 - 📫 How to reach me: linkedin.com/in/cyber-moose
